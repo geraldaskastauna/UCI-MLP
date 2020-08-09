@@ -1,7 +1,15 @@
-# UCI-MLP
-A multilayer perceptron built in Java for UCI Optical Recognition of Handwritten Digits categorisation
+## Author:
+Geraldas Kastauna\
+http://www.geraldaskastauna.com
 
-Check report for more detailed explanation
-Or check code comments in MLP.java
+# Multilayer Perceptron for handwritten digits classification
 
-Author: Geraldas Kastauna
+A multilayer perceptron (MLP) built using only Java.\
+Categorises UCI Optical Recognition of Handwritten Digits dataset.\
+\
+Check report for more detailed explanation.\
+Code is also well commented so it could provide a better understanding than a report.\
+
+## Contact info:
+**University email:** GK468@live.mdx.ac.uk\
+**Personal:** geraldaskastauna@gmail.com
